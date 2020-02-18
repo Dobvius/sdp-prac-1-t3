@@ -26,9 +26,7 @@ namespace Euler
                 Console.Read();
             }
             EulerProblem6();
+
         }
-
     }
-
-
 }
